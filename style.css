@@ -1,3 +1,7 @@
+html {
+    width: 100%;
+}
+
 .container-fluid {
     background-color: rgb(152, 190, 174);
 }
@@ -5,3 +9,4 @@
 .property {
     font-weight: bold;
 }
+
